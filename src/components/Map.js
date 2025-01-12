@@ -104,7 +104,7 @@ import "mapbox-gl/dist/mapbox-gl.css";
 import FiltersPanel from "./Filter";
 import styles from "./Map.module.css";
 
-mapboxgl.accessToken = "your-mapbox-access-token-here"; // Укажите свой токен Mapbox
+mapboxgl.accessToken = "pk.eyJ1IjoiamFtZXJhNDIiLCJhIjoiY201dHYwdmY0MHB6cTJrcjVzN204azVqeiJ9.OiAd8z-OjGo2krSrhJh1xA"; //токен Mapbox
 
 const Map = () => {
     const mapContainer = useRef(null);

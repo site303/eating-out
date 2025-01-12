@@ -6,7 +6,7 @@ html, body {
 
 .mapContainer { 
     border-radius: 12px; 
-    overflow: hidden; 
+    /* overflow: hidden;  */
     height: 86vh;
     position: relative;
     width: 90%;
